@@ -1,3 +1,16 @@
 ﻿/SmartBudgetManagerUI/node_modules
 /SmartBudgetManagerUI/package.json
 /SmartBudgetManagerUI/package-lock.json
+/SmartBudgetManagerUI/package-lock.json
+/SmartBudgetManager.WebAPI/.vs
+/SmartBudgetManager.WebAPI/SmartBudgetManager.WebAPI/appsettings.Development.json
+/SmartBudgetManager.WebAPI/SmartBudgetManager.Domain/bin
+/SmartBudgetManager.WebAPI/SmartBudgetManager.Domain/obj
+/SmartBudgetManager.WebAPI/SmartBudgetManager.Application/bin
+/SmartBudgetManager.WebAPI/SmartBudgetManager.Application/obj
+/SmartBudgetManager.WebAPI/SmartBudgetManager.Infrustructure/bin
+/SmartBudgetManager.WebAPI/SmartBudgetManager.Infrustructure/obj
+/SmartBudgetManager.WebAPI/SmartBudgetManager.WebAPI/bin
+/SmartBudgetManager.WebAPI/SmartBudgetManager.WebAPI/obj
+
+/SmartBudgetManager.WebAPI/SmartBudgetManager.WebAPI/Properties/launchSettings.json
