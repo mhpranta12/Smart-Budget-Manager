@@ -1,0 +1,29 @@
+.side-menu
+{
+    width: 200%;
+    background-color: rgb(235, 247, 243);
+    opacity: 90%;
+    align-content: flex-start;
+    padding: 5%;
+}
+.side-menu-btn
+{
+    width: 100%;
+    background-color: rgb(150, 239, 210);
+    opacity: 90%;
+    align-content: flex-start;
+    padding: 5%;
+}
+.side-menu:hover
+{
+    opacity: 100%;
+    cursor: pointer;
+    background-color: rgb(132, 228, 241);
+}
+.side-menu-container
+{
+    padding: 0%;
+    width: 180%;
+    height: 100%;
+    background-color: white;
+}
